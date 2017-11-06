@@ -1,0 +1,248 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>eBastaSuite</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.addNew_eContent()[pri:2, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">addNew_eContent</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:19:57</td>   <td>-232898</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.addTestCaseHeading()[pri:1, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:21:54</td>   <td>-115143</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.addTestCaseHeading()[pri:1, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:47</td>   <td>-2675</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.addTestCaseHeading()[pri:1, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>-4</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.addTestCaseHeading()[pri:1, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>148</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.addTestCaseHeading()[pri:1, instance:eBastaRole.TeacherRoleTest@3c5c9252]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="8193a1">  <td>16/08/24 14:23:50</td>   <td>387</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="QuickBuy.addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.QuickBuy@63012b1b]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>441</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="828b82">  <td>16/08/24 14:23:50</td>   <td>623</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eContentTest.addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.Search_eContentTest@3d758b59]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="7c88d4">  <td>16/08/24 14:23:51</td>   <td>1033</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="ForgetPasswordTest.addTestCaseHeading()[pri:1, instance:eBastaTestingClasses.ForgetPasswordTest@700f9f94]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1087</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.addTestCaseHeading()[pri:1, instance:eBastaTestingClasses.LinksTest@11b5e706]">addTestCaseHeading</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="8193a1">  <td>16/08/24 14:23:50</td>   <td>409</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="QuickBuy.anonymoseUserBuyProcess()[pri:3, instance:eBastaSearchOptions.QuickBuy@63012b1b]">anonymoseUserBuyProcess</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>293</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.buy_eBasta()[pri:12, instance:eBastaRole.TeacherRoleTest@3c5c9252]">buy_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>77</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>90</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>103</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>116</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1092</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1111</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1128</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1145</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1163</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1180</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="fbb6a8">  <td>16/08/24 14:23:51</td>   <td>1199</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="LinksTest.checkLinks2()[pri:2, instance:eBastaTestingClasses.LinksTest@11b5e706]">checkLinks2</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>14</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkMy_eContents()[pri:3, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkMy_eContents</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>29</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkMy_eContents1()[pri:4, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkMy_eContents1</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>130</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.checkPreview()[pri:6, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">checkPreview</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>222</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.checkSaveButtonMessage()[pri:7, instance:eBastaRole.TeacherRoleTest@3c5c9252]">checkSaveButtonMessage</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>566</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.check_eBastaGridViewDetails()[pri:4, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">check_eBastaGridViewDetails</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>195</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.check_eBastaName()[pri:5, instance:eBastaRole.TeacherRoleTest@3c5c9252]">check_eBastaName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>208</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.check_eBastaStatus()[pri:6, instance:eBastaRole.TeacherRoleTest@3c5c9252]">check_eBastaStatus</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>595</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.check_eBastaTableViewDetails()[pri:5, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">check_eBastaTableViewDetails</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>366</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.copyFolder()[pri:17, instance:eBastaRole.TeacherRoleTest@3c5c9252]">copyFolder</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:38</td>   <td>-131421</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.createEtailer()[pri:9, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">createEtailer</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>314</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.createFolder()[pri:14, instance:eBastaRole.TeacherRoleTest@3c5c9252]">createFolder</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:31</td>   <td>-18730</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.createPublisher()[pri:7, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">createPublisher</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:50</td>   <td>-18</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.createSchool()[pri:9, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">createSchool</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>180</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.create_eBasta()[pri:4, instance:eBastaRole.TeacherRoleTest@3c5c9252]">create_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>348</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.cutFolder()[pri:16, instance:eBastaRole.TeacherRoleTest@3c5c9252]">cutFolder</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>250</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.downloadXLS()[pri:9, instance:eBastaRole.TeacherRoleTest@3c5c9252]">downloadXLS</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="828b82">  <td>16/08/24 14:23:50</td>   <td>642</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eContentTest.eContentDetailsGrid()[pri:3, instance:eBastaSearchOptions.Search_eContentTest@3d758b59]">eContentDetailsGrid</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="828b82">  <td>16/08/24 14:23:51</td>   <td>989</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eContentTest.eContentDetailsTable()[pri:4, instance:eBastaSearchOptions.Search_eContentTest@3d758b59]">eContentDetailsTable</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>279</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.edit_eBasta()[pri:11, instance:eBastaRole.TeacherRoleTest@3c5c9252]">edit_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>151</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.emptyLoginTest()[pri:2, instance:eBastaRole.TeacherRoleTest@3c5c9252]">emptyLoginTest</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>311</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.logOut()[pri:13, instance:eBastaRole.TeacherRoleTest@3c5c9252]">logOut</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>165</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.loginTest()[pri:3, instance:eBastaRole.TeacherRoleTest@3c5c9252]">loginTest</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="74e8dd">  <td>16/08/24 14:23:50</td>   <td>143</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="PublisherRoleTest.logout()[pri:8, instance:eBastaRole.PublisherRoleTest@78c0d6e5]">logout</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>265</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.preview_eBasta()[pri:10, instance:eBastaRole.TeacherRoleTest@3c5c9252]">preview_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="8193a1">  <td>16/08/24 14:23:50</td>   <td>390</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="QuickBuy.quickSearch()[pri:2, instance:eBastaSearchOptions.QuickBuy@63012b1b]">quickSearch</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>328</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.renameFolder()[pri:15, instance:eBastaRole.TeacherRoleTest@3c5c9252]">renameFolder</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>445</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>466</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>487</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBasta</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>509</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBastaAdvanced</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>525</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBastaAdvanced</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="ea9b6e">  <td>16/08/24 14:23:50</td>   <td>551</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eBastaTest.search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@61b52c64]">search_eBastaAdvanced</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="828b82">  <td>16/08/24 14:23:50</td>   <td>626</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Search_eContentTest.search_eContent()[pri:2, instance:eBastaSearchOptions.Search_eContentTest@3d758b59]">search_eContent</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:25</td>   <td>-204948</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:30</td>   <td>-199549</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:35</td>   <td>-194162</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:41</td>   <td>-188721</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:21</td>   <td>-88900</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:26</td>   <td>-83501</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:31</td>   <td>-78095</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:37</td>   <td>-72754</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-546</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-489</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-413</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-340</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="7c88d4">  <td>16/08/24 14:23:51</td>   <td>1038</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="ForgetPasswordTest.testEmail(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.ForgetPasswordTest@700f9f94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="7c88d4">  <td>16/08/24 14:23:51</td>   <td>1070</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="ForgetPasswordTest.testEmail(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.ForgetPasswordTest@700f9f94]">testEmail</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:34</td>   <td>-135179</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEtailerName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:34</td>   <td>-135161</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEtailerName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:34</td>   <td>-135139</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEtailerName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:34</td>   <td>-135120</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEtailerName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:34</td>   <td>-135102</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testEtailerName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:11</td>   <td>-159078</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:16</td>   <td>-153122</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:22</td>   <td>-147101</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:28</td>   <td>-141147</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:07</td>   <td>-42849</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:13</td>   <td>-36671</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:19</td>   <td>-30584</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:25</td>   <td>-24632</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-134</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-114</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:50</td>   <td>-71</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:50</td>   <td>-57</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testMobileNumber</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:35</td>   <td>-135083</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testNatureOfBusinessDropdown()[pri:8, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testNatureOfBusinessDropdown</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:50</td>   <td>-179941</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:55</td>   <td>-174766</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:00</td>   <td>-169585</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:21:05</td>   <td>-164356</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:45</td>   <td>-64292</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:51</td>   <td>-58831</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:56</td>   <td>-53445</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:23:01</td>   <td>-48128</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-266</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-244</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-164</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-149</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testPostalCode</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:50</td>   <td>-32</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testSchoolDropdown()[pri:8, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testSchoolDropdown</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:46</td>   <td>-183193</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testStateAndCity()[pri:4, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testStateAndCity</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:42</td>   <td>-67537</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testStateAndCity()[pri:4, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testStateAndCity</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-304</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testStateAndCity()[pri:4, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testStateAndCity</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:50</td>   <td>-44</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testTeacherName()[pri:7, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testTeacherName</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:19:57</td>   <td>-232748</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:03</td>   <td>-226444</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:08</td>   <td>-221111</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:14</td>   <td>-215730</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b56891">  <td>16/08/24 14:20:19</td>   <td>-210257</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@7377b6fc]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:21:54</td>   <td>-115138</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:00</td>   <td>-109830</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:05</td>   <td>-104568</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:10</td>   <td>-99374</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="62f5c2">  <td>16/08/24 14:22:15</td>   <td>-94108</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterPublisherTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@e5c48f1]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:47</td>   <td>-2671</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-638</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-616</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-595</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="b4d3ac">  <td>16/08/24 14:23:49</td>   <td>-571</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="RegisterSchoolTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@4cb8cd94]">testUsername</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+<tr bgcolor="c4a4cf">  <td>16/08/24 14:23:50</td>   <td>236</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TeacherRoleTest.test_eBastaStatistics()[pri:8, instance:eBastaRole.TeacherRoleTest@3c5c9252]">test_eBastaStatistics</td> 
+  <td>main@1737260376</td>   <td></td> </tr>
+</table>

@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="122" passed="122">
+  <reporter-output>
+  </reporter-output>
+  <suite name="eBastaSuite" duration-ms="667644" started-at="2016-12-19T08:45:31Z" finished-at="2016-12-19T08:56:38Z">
+    <groups>
+    </groups>
+    <test name="eBastaTest" duration-ms="667644" started-at="2016-12-19T08:45:31Z" finished-at="2016-12-19T08:56:38Z">
+      <class name="eBastaTestingClasses.LinksTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="addTestCaseHeading" duration-ms="2" started-at="2016-12-19T14:25:53Z" finished-at="2016-12-19T14:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="2667" started-at="2016-12-19T14:25:53Z" data-provider="LinkData" finished-at="2016-12-19T14:25:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='navbar']/nav/ul/li[1]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[About eBasta link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="1286" started-at="2016-12-19T14:25:55Z" data-provider="LinkData" finished-at="2016-12-19T14:25:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='wrap']/nav[2]/div/div/div[1]/a/img]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eBasta logo link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="2594" started-at="2016-12-19T14:25:57Z" data-provider="LinkData" finished-at="2016-12-19T14:25:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='block-block-20']/ul/li[1]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Download eBasta App link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="2553" started-at="2016-12-19T14:25:59Z" data-provider="LinkData" finished-at="2016-12-19T14:26:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='navbar']/nav/ul/li[4]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Forums link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="2815" started-at="2016-12-19T14:26:02Z" data-provider="LinkData" finished-at="2016-12-19T14:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='navbar']/nav/ul/li[5]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FAQ link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks" duration-ms="2621" started-at="2016-12-19T14:26:05Z" data-provider="LinkData" finished-at="2016-12-19T14:26:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='navbar']/nav/ul/li[6]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Useful tools link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks2()[pri:2, instance:eBastaTestingClasses.LinksTest@ea6147e]" name="checkLinks2" duration-ms="31139" started-at="2016-12-19T14:26:07Z" finished-at="2016-12-19T14:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks2 -->
+      </class> <!-- eBastaTestingClasses.LinksTest -->
+      <class name="eBastaRegistration.RegisterSchoolTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="addTestCaseHeading" duration-ms="1" started-at="2016-12-19T14:19:34Z" finished-at="2016-12-19T14:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testUsername" duration-ms="5407" started-at="2016-12-19T14:19:34Z" data-provider="UsernameData" finished-at="2016-12-19T14:19:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testUsername" duration-ms="5327" started-at="2016-12-19T14:19:39Z" data-provider="UsernameData" finished-at="2016-12-19T14:19:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testUsername" duration-ms="5475" started-at="2016-12-19T14:19:45Z" data-provider="UsernameData" finished-at="2016-12-19T14:19:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testUsername" duration-ms="5285" started-at="2016-12-19T14:19:50Z" data-provider="UsernameData" finished-at="2016-12-19T14:19:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testUsername" duration-ms="5354" started-at="2016-12-19T14:19:55Z" data-provider="UsernameData" finished-at="2016-12-19T14:20:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testEmail" duration-ms="5424" started-at="2016-12-19T14:20:01Z" data-provider="EmailData" finished-at="2016-12-19T14:20:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testEmail" duration-ms="5360" started-at="2016-12-19T14:20:06Z" data-provider="EmailData" finished-at="2016-12-19T14:20:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@ebasta.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testEmail" duration-ms="5483" started-at="2016-12-19T14:20:11Z" data-provider="EmailData" finished-at="2016-12-19T14:20:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA['ebasta'@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testEmail" duration-ms="5406" started-at="2016-12-19T14:20:17Z" data-provider="EmailData" finished-at="2016-12-19T14:20:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email@domain@domain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testStateAndCity()[pri:4, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testStateAndCity" duration-ms="3244" started-at="2016-12-19T14:20:22Z" finished-at="2016-12-19T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStateAndCity -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testPostalCode" duration-ms="5336" started-at="2016-12-19T14:20:26Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:20:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testPostalCode" duration-ms="5396" started-at="2016-12-19T14:20:31Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:20:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testPostalCode" duration-ms="5407" started-at="2016-12-19T14:20:36Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:20:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testPostalCode" duration-ms="5377" started-at="2016-12-19T14:20:42Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:20:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123@56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testMobileNumber" duration-ms="6040" started-at="2016-12-19T14:20:47Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:20:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234567892]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testMobileNumber" duration-ms="6068" started-at="2016-12-19T14:20:53Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:20:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testMobileNumber" duration-ms="5992" started-at="2016-12-19T14:20:59Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:21:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testMobileNumber" duration-ms="6082" started-at="2016-12-19T14:21:05Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:21:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-256478965]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testTeacherName()[pri:7, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testTeacherName" duration-ms="13" started-at="2016-12-19T14:21:11Z" finished-at="2016-12-19T14:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTeacherName -->
+        <test-method status="PASS" signature="testSchoolDropdown()[pri:8, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="testSchoolDropdown" duration-ms="3691" started-at="2016-12-19T14:21:11Z" finished-at="2016-12-19T14:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSchoolDropdown -->
+        <test-method status="PASS" signature="createSchool()[pri:9, instance:eBastaRegistration.RegisterSchoolTest@50b5ac82]" name="createSchool" duration-ms="19593" started-at="2016-12-19T14:21:15Z" finished-at="2016-12-19T14:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSchool -->
+      </class> <!-- eBastaRegistration.RegisterSchoolTest -->
+      <class name="eBastaSearchOptions.QuickBuy">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.QuickBuy@7ea9e1e2]" name="addTestCaseHeading" duration-ms="29" started-at="2016-12-19T14:23:12Z" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="quickSearch()[pri:2, instance:eBastaSearchOptions.QuickBuy@7ea9e1e2]" name="quickSearch" duration-ms="7456" started-at="2016-12-19T14:23:12Z" finished-at="2016-12-19T14:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quickSearch -->
+        <test-method status="PASS" signature="anonymoseUserBuyProcess()[pri:3, instance:eBastaSearchOptions.QuickBuy@7ea9e1e2]" name="anonymoseUserBuyProcess" duration-ms="8128" started-at="2016-12-19T14:23:20Z" finished-at="2016-12-19T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anonymoseUserBuyProcess -->
+      </class> <!-- eBastaSearchOptions.QuickBuy -->
+      <class name="eBastaSearchOptions.Search_eBastaTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="addTestCaseHeading" duration-ms="1" started-at="2016-12-19T14:23:28Z" finished-at="2016-12-19T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBasta" duration-ms="7250" started-at="2016-12-19T14:23:28Z" data-provider="eBastaNames" finished-at="2016-12-19T14:23:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test31march2016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[available]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBasta -->
+        <test-method status="PASS" signature="search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBasta" duration-ms="7124" started-at="2016-12-19T14:23:35Z" data-provider="eBastaNames" finished-at="2016-12-19T14:23:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[unavailable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBasta -->
+        <test-method status="PASS" signature="search_eBasta(java.lang.String, java.lang.String)[pri:2, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBasta" duration-ms="7089" started-at="2016-12-19T14:23:42Z" data-provider="eBastaNames" finished-at="2016-12-19T14:23:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ClassXbasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[available]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBasta -->
+        <test-method status="PASS" signature="search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBastaAdvanced" duration-ms="8084" started-at="2016-12-19T14:23:49Z" data-provider="AdvanceSearch_eBastaNames" finished-at="2016-12-19T14:23:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test31march2016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pre-Class I]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Navi Mumbai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BAL BHARATI PUBLIC SCHOOL]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[available]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBastaAdvanced -->
+        <test-method status="PASS" signature="search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBastaAdvanced" duration-ms="7841" started-at="2016-12-19T14:23:57Z" data-provider="AdvanceSearch_eBastaNames" finished-at="2016-12-19T14:24:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test31march2016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pre-Class II]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BAL BHARATI PUBLIC SCHOOL]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[unavailable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBastaAdvanced -->
+        <test-method status="PASS" signature="search_eBastaAdvanced(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="search_eBastaAdvanced" duration-ms="7761" started-at="2016-12-19T14:24:05Z" data-provider="AdvanceSearch_eBastaNames" finished-at="2016-12-19T14:24:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learning for life]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pre-Class II]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mohali]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Others]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[available]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eBastaAdvanced -->
+        <test-method status="PASS" signature="check_eBastaGridViewDetails()[pri:4, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="check_eBastaGridViewDetails" duration-ms="8644" started-at="2016-12-19T14:24:13Z" finished-at="2016-12-19T14:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_eBastaGridViewDetails -->
+        <test-method status="PASS" signature="check_eBastaTableViewDetails()[pri:5, instance:eBastaSearchOptions.Search_eBastaTest@24fcf36f]" name="check_eBastaTableViewDetails" duration-ms="4483" started-at="2016-12-19T14:24:22Z" finished-at="2016-12-19T14:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_eBastaTableViewDetails -->
+      </class> <!-- eBastaSearchOptions.Search_eBastaTest -->
+      <class name="eBastaSearchOptions.Search_eContentTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaSearchOptions.Search_eContentTest@10feca44]" name="addTestCaseHeading" duration-ms="13" started-at="2016-12-19T14:24:26Z" finished-at="2016-12-19T14:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="search_eContent()[pri:2, instance:eBastaSearchOptions.Search_eContentTest@10feca44]" name="search_eContent" duration-ms="20412" started-at="2016-12-19T14:24:26Z" finished-at="2016-12-19T14:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_eContent -->
+        <test-method status="PASS" signature="eContentDetailsGrid()[pri:3, instance:eBastaSearchOptions.Search_eContentTest@10feca44]" name="eContentDetailsGrid" duration-ms="6511" started-at="2016-12-19T14:24:47Z" finished-at="2016-12-19T14:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eContentDetailsGrid -->
+        <test-method status="PASS" signature="eContentDetailsTable()[pri:4, instance:eBastaSearchOptions.Search_eContentTest@10feca44]" name="eContentDetailsTable" duration-ms="9264" started-at="2016-12-19T14:24:53Z" finished-at="2016-12-19T14:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eContentDetailsTable -->
+      </class> <!-- eBastaSearchOptions.Search_eContentTest -->
+      <class name="eBastaRole.PublisherRoleTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRole.PublisherRoleTest@101952da]" name="addTestCaseHeading" duration-ms="1" started-at="2016-12-19T14:21:35Z" finished-at="2016-12-19T14:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="addNew_eContent()[pri:2, instance:eBastaRole.PublisherRoleTest@101952da]" name="addNew_eContent" duration-ms="17491" started-at="2016-12-19T14:21:35Z" finished-at="2016-12-19T14:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNew_eContent -->
+        <test-method status="PASS" signature="checkMy_eContents()[pri:3, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkMy_eContents" duration-ms="1375" started-at="2016-12-19T14:21:52Z" finished-at="2016-12-19T14:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMy_eContents -->
+        <test-method status="PASS" signature="checkMy_eContents1()[pri:4, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkMy_eContents1" duration-ms="2846" started-at="2016-12-19T14:21:54Z" finished-at="2016-12-19T14:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMy_eContents1 -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkLinks" duration-ms="1418" started-at="2016-12-19T14:21:56Z" data-provider="LinkData" finished-at="2016-12-19T14:21:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='block-menu-menu-publisher-menu']/ul/li[3]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bulk upload link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkLinks" duration-ms="1387" started-at="2016-12-19T14:21:58Z" data-provider="LinkData" finished-at="2016-12-19T14:21:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='block-menu-menu-publisher-menu']/ul/li[4]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Custom sales report link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkLinks" duration-ms="1487" started-at="2016-12-19T14:21:59Z" data-provider="LinkData" finished-at="2016-12-19T14:22:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='block-menu-menu-publisher-menu']/ul/li[5]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Product sales report link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkLinks(java.lang.String, java.lang.String)[pri:5, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkLinks" duration-ms="1393" started-at="2016-12-19T14:22:01Z" data-provider="LinkData" finished-at="2016-12-19T14:22:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//*[@id='block-menu-menu-publisher-menu']/ul/li[6]/a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Year sales report link]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+        <test-method status="PASS" signature="checkPreview()[pri:6, instance:eBastaRole.PublisherRoleTest@101952da]" name="checkPreview" duration-ms="4120" started-at="2016-12-19T14:22:02Z" finished-at="2016-12-19T14:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPreview -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:eBastaRole.PublisherRoleTest@101952da]" name="logout" duration-ms="3087" started-at="2016-12-19T14:22:06Z" finished-at="2016-12-19T14:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- eBastaRole.PublisherRoleTest -->
+      <class name="eBastaRole.TeacherRoleTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="addTestCaseHeading" duration-ms="1" started-at="2016-12-19T14:22:09Z" finished-at="2016-12-19T14:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="emptyLoginTest()[pri:2, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="emptyLoginTest" duration-ms="3453" started-at="2016-12-19T14:22:09Z" finished-at="2016-12-19T14:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyLoginTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="loginTest" duration-ms="16437" started-at="2016-12-19T14:22:13Z" finished-at="2016-12-19T14:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="create_eBasta()[pri:4, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="create_eBasta" duration-ms="3407" started-at="2016-12-19T14:22:29Z" finished-at="2016-12-19T14:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_eBasta -->
+        <test-method status="PASS" signature="check_eBastaName()[pri:5, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="check_eBastaName" duration-ms="1555" started-at="2016-12-19T14:22:33Z" finished-at="2016-12-19T14:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_eBastaName -->
+        <test-method status="PASS" signature="check_eBastaStatus()[pri:6, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="check_eBastaStatus" duration-ms="27" started-at="2016-12-19T14:22:34Z" finished-at="2016-12-19T14:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_eBastaStatus -->
+        <test-method status="PASS" signature="checkSaveButtonMessage()[pri:7, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="checkSaveButtonMessage" duration-ms="3899" started-at="2016-12-19T14:22:34Z" finished-at="2016-12-19T14:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSaveButtonMessage -->
+        <test-method status="PASS" signature="test_eBastaStatistics()[pri:8, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="test_eBastaStatistics" duration-ms="4501" started-at="2016-12-19T14:22:38Z" finished-at="2016-12-19T14:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_eBastaStatistics -->
+        <test-method status="PASS" signature="downloadXLS()[pri:9, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="downloadXLS" duration-ms="5332" started-at="2016-12-19T14:22:43Z" finished-at="2016-12-19T14:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadXLS -->
+        <test-method status="PASS" signature="preview_eBasta()[pri:10, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="preview_eBasta" duration-ms="4211" started-at="2016-12-19T14:22:48Z" finished-at="2016-12-19T14:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preview_eBasta -->
+        <test-method status="PASS" signature="edit_eBasta()[pri:11, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="edit_eBasta" duration-ms="7485" started-at="2016-12-19T14:22:52Z" finished-at="2016-12-19T14:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_eBasta -->
+        <test-method status="PASS" signature="buy_eBasta()[pri:12, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="buy_eBasta" duration-ms="12559" started-at="2016-12-19T14:23:00Z" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy_eBasta -->
+        <test-method status="PASS" signature="logOut()[pri:13, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="logOut" duration-ms="13" started-at="2016-12-19T14:23:12Z" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="createFolder()[pri:14, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="createFolder" duration-ms="22" started-at="2016-12-19T14:23:12Z" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFolder -->
+        <test-method status="PASS" signature="renameFolder()[pri:15, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="renameFolder" duration-ms="22" started-at="2016-12-19T14:23:12Z" depends-on-methods="eBastaRole.TeacherRoleTest.createFolder" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- renameFolder -->
+        <test-method status="PASS" signature="cutFolder()[pri:16, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="cutFolder" duration-ms="21" started-at="2016-12-19T14:23:12Z" depends-on-methods="eBastaRole.TeacherRoleTest.renameFolder" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cutFolder -->
+        <test-method status="PASS" signature="copyFolder()[pri:17, instance:eBastaRole.TeacherRoleTest@6babf3bf]" name="copyFolder" duration-ms="24" started-at="2016-12-19T14:23:12Z" depends-on-methods="eBastaRole.TeacherRoleTest.cutFolder" finished-at="2016-12-19T14:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyFolder -->
+      </class> <!-- eBastaRole.TeacherRoleTest -->
+      <class name="eBastaTestingClasses.ForgetPasswordTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaTestingClasses.ForgetPasswordTest@3fb1549b]" name="addTestCaseHeading" duration-ms="1" started-at="2016-12-19T14:25:02Z" finished-at="2016-12-19T14:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.ForgetPasswordTest@3fb1549b]" name="testEmail" duration-ms="29639" started-at="2016-12-19T14:25:02Z" data-provider="EmailData" finished-at="2016-12-19T14:25:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mail should be sent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:2, instance:eBastaTestingClasses.ForgetPasswordTest@3fb1549b]" name="testEmail" duration-ms="20821" started-at="2016-12-19T14:25:32Z" data-provider="EmailData" finished-at="2016-12-19T14:25:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz@ebasta.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mail should not be sent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+      </class> <!-- eBastaTestingClasses.ForgetPasswordTest -->
+      <class name="eBastaRegistration.RegisterPublisherTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="addTestCaseHeading" duration-ms="18" started-at="2016-12-19T14:17:36Z" finished-at="2016-12-19T14:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testUsername" duration-ms="5411" started-at="2016-12-19T14:17:36Z" data-provider="UsernameData" finished-at="2016-12-19T14:17:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testUsername" duration-ms="5507" started-at="2016-12-19T14:17:41Z" data-provider="UsernameData" finished-at="2016-12-19T14:17:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testUsername" duration-ms="5384" started-at="2016-12-19T14:17:47Z" data-provider="UsernameData" finished-at="2016-12-19T14:17:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testUsername" duration-ms="5515" started-at="2016-12-19T14:17:52Z" data-provider="UsernameData" finished-at="2016-12-19T14:17:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testUsername" duration-ms="5487" started-at="2016-12-19T14:17:57Z" data-provider="UsernameData" finished-at="2016-12-19T14:18:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testEmail" duration-ms="5470" started-at="2016-12-19T14:18:03Z" data-provider="EmailData" finished-at="2016-12-19T14:18:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testEmail" duration-ms="5411" started-at="2016-12-19T14:18:08Z" data-provider="EmailData" finished-at="2016-12-19T14:18:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@ebasta.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testEmail" duration-ms="5444" started-at="2016-12-19T14:18:14Z" data-provider="EmailData" finished-at="2016-12-19T14:18:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA['ebasta'@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testEmail" duration-ms="5640" started-at="2016-12-19T14:18:19Z" data-provider="EmailData" finished-at="2016-12-19T14:18:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email@domain@domain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testStateAndCity()[pri:4, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testStateAndCity" duration-ms="3292" started-at="2016-12-19T14:18:25Z" finished-at="2016-12-19T14:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStateAndCity -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testPostalCode" duration-ms="5516" started-at="2016-12-19T14:18:28Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:18:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testPostalCode" duration-ms="5383" started-at="2016-12-19T14:18:34Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:18:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testPostalCode" duration-ms="5410" started-at="2016-12-19T14:18:39Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:18:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testPostalCode" duration-ms="5459" started-at="2016-12-19T14:18:45Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:18:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123@56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testMobileNumber" duration-ms="6056" started-at="2016-12-19T14:18:50Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:18:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234567892]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testMobileNumber" duration-ms="6094" started-at="2016-12-19T14:18:56Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:19:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testMobileNumber" duration-ms="6182" started-at="2016-12-19T14:19:02Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:19:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="testMobileNumber" duration-ms="6159" started-at="2016-12-19T14:19:08Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:19:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-256478965]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="createPublisher()[pri:7, instance:eBastaRegistration.RegisterPublisherTest@4de4b452]" name="createPublisher" duration-ms="19364" started-at="2016-12-19T14:19:14Z" finished-at="2016-12-19T14:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPublisher -->
+      </class> <!-- eBastaRegistration.RegisterPublisherTest -->
+      <class name="eBastaRegistration.Register_eTailerTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="addTestCaseHeading" duration-ms="100" started-at="2016-12-19T14:15:31Z" finished-at="2016-12-19T14:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testUsername" duration-ms="5913" started-at="2016-12-19T14:15:31Z" data-provider="UsernameData" finished-at="2016-12-19T14:15:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testUsername" duration-ms="5513" started-at="2016-12-19T14:15:37Z" data-provider="UsernameData" finished-at="2016-12-19T14:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testUsername" duration-ms="5676" started-at="2016-12-19T14:15:42Z" data-provider="UsernameData" finished-at="2016-12-19T14:15:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testUsername" duration-ms="5652" started-at="2016-12-19T14:15:48Z" data-provider="UsernameData" finished-at="2016-12-19T14:15:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testUsername" duration-ms="5537" started-at="2016-12-19T14:15:54Z" data-provider="UsernameData" finished-at="2016-12-19T14:15:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEmail" duration-ms="5543" started-at="2016-12-19T14:15:59Z" data-provider="EmailData" finished-at="2016-12-19T14:16:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEmail" duration-ms="5783" started-at="2016-12-19T14:16:05Z" data-provider="EmailData" finished-at="2016-12-19T14:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@ebasta.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEmail" duration-ms="5492" started-at="2016-12-19T14:16:11Z" data-provider="EmailData" finished-at="2016-12-19T14:16:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA['ebasta'@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEmail" duration-ms="5599" started-at="2016-12-19T14:16:16Z" data-provider="EmailData" finished-at="2016-12-19T14:16:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email@domain@domain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testStateAndCity()[pri:4, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testStateAndCity" duration-ms="3361" started-at="2016-12-19T14:16:22Z" finished-at="2016-12-19T14:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStateAndCity -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testPostalCode" duration-ms="5580" started-at="2016-12-19T14:16:25Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:16:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testPostalCode" duration-ms="5539" started-at="2016-12-19T14:16:31Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:16:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testPostalCode" duration-ms="5528" started-at="2016-12-19T14:16:36Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:16:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testPostalCode" duration-ms="5506" started-at="2016-12-19T14:16:42Z" data-provider="PostalCodeData" finished-at="2016-12-19T14:16:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123@56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testMobileNumber" duration-ms="6057" started-at="2016-12-19T14:16:47Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:16:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234567892]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testMobileNumber" duration-ms="6084" started-at="2016-12-19T14:16:53Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:16:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testMobileNumber" duration-ms="6113" started-at="2016-12-19T14:16:59Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:17:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testMobileNumber" duration-ms="6140" started-at="2016-12-19T14:17:05Z" data-provider="MobileNumberData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-256478965]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEtailerName" duration-ms="11" started-at="2016-12-19T14:17:12Z" data-provider="EtailerData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEtailerName" duration-ms="11" started-at="2016-12-19T14:17:12Z" data-provider="EtailerData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEtailerName" duration-ms="10" started-at="2016-12-19T14:17:12Z" data-provider="EtailerData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEtailerName" duration-ms="9" started-at="2016-12-19T14:17:12Z" data-provider="EtailerData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testEtailerName" duration-ms="8" started-at="2016-12-19T14:17:12Z" data-provider="EtailerData" finished-at="2016-12-19T14:17:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testNatureOfBusinessDropdown()[pri:8, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="testNatureOfBusinessDropdown" duration-ms="3851" started-at="2016-12-19T14:17:12Z" finished-at="2016-12-19T14:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNatureOfBusinessDropdown -->
+        <test-method status="PASS" signature="createEtailer()[pri:9, instance:eBastaRegistration.Register_eTailerTest@37654521]" name="createEtailer" duration-ms="20146" started-at="2016-12-19T14:17:15Z" finished-at="2016-12-19T14:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEtailer -->
+      </class> <!-- eBastaRegistration.Register_eTailerTest -->
+    </test> <!-- eBastaTest -->
+  </suite> <!-- eBastaSuite -->
+</testng-results>

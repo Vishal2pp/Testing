@@ -1,0 +1,19 @@
+<suite name = "eBastaSuite">
+<test name = "eBastaTest">
+<classes>
+	<class name = "eBastaRegistration.Register_eTailerTest"></class>
+	<class name = "eBastaRegistration.RegisterPublisherTest"></class>
+	<class name = "eBastaRegistration.RegisterSchoolTest"></class>
+	
+	<class name = "eBastaRole.PublisherRoleTest"></class>
+	<class name = "eBastaRole.TeacherRoleTest"></class>
+	
+	<class name = "eBastaSearchOptions.QuickBuy"></class>
+	<class name = "eBastaSearchOptions.Search_eBastaTest"></class>
+	<class name = "eBastaSearchOptions.Search_eContentTest"></class>
+	
+	<class name = "eBastaTestingClasses.ForgetPasswordTest"></class>
+	<class name = "eBastaTestingClasses.LinksTest"></class>
+</classes>
+</test>
+</suite>

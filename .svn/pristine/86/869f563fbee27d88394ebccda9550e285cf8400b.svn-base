@@ -1,0 +1,56 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>Default suite</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:45:45</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.addTestCaseHeading()[pri:1, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">addTestCaseHeading</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>69014</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.createEtailer()[pri:9, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">createEtailer</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68738</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEmail</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68752</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEmail</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68765</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEmail</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68781</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEmail</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68946</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEtailerName</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68958</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEtailerName</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68969</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEtailerName</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68979</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEtailerName</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68994</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testEtailerName</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68890</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testMobileNumber</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68905</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testMobileNumber</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68919</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testMobileNumber</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68931</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testMobileNumber</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>69003</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testNatureOfBusinessDropdown()[pri:8, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testNatureOfBusinessDropdown</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68830</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testPostalCode</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68848</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testPostalCode</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68863</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testPostalCode</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68878</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testPostalCode</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68798</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testStateAndCity()[pri:4, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testStateAndCity</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:45:45</td>   <td>167</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testUsername</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:50</td>   <td>65192</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testUsername</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68693</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testUsername</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68709</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testUsername</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+<tr bgcolor="e8a876">  <td>16/09/06 10:46:54</td>   <td>68723</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="Register_eTailerTest.testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]">testUsername</td> 
+  <td>main@1898155970</td>   <td></td> </tr>
+</table>

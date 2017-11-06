@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="26" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69046" started-at="2016-09-06T05:15:45Z" finished-at="2016-09-06T05:16:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69046" started-at="2016-09-06T05:15:45Z" finished-at="2016-09-06T05:16:54Z">
+      <class name="eBastaRegistration.Register_eTailerTest">
+        <test-method status="PASS" signature="addTestCaseHeading()[pri:1, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="addTestCaseHeading" duration-ms="164" started-at="2016-09-06T10:45:45Z" finished-at="2016-09-06T10:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCaseHeading -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testUsername" duration-ms="65023" started-at="2016-09-06T10:45:45Z" data-provider="UsernameData" finished-at="2016-09-06T10:46:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testUsername" duration-ms="3500" started-at="2016-09-06T10:46:50Z" data-provider="UsernameData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testUsername" duration-ms="15" started-at="2016-09-06T10:46:54Z" data-provider="UsernameData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testUsername" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="UsernameData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testUsername(java.lang.String, java.lang.String)[pri:2, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testUsername" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="UsernameData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEmail" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="EmailData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEmail" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="EmailData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@ebasta.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEmail" duration-ms="15" started-at="2016-09-06T10:46:54Z" data-provider="EmailData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA['ebasta'@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testEmail(java.lang.String, java.lang.String)[pri:3, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEmail" duration-ms="16" started-at="2016-09-06T10:46:54Z" data-provider="EmailData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email@domain@domain.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method status="PASS" signature="testStateAndCity()[pri:4, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testStateAndCity" duration-ms="31" started-at="2016-09-06T10:46:54Z" finished-at="2016-09-06T10:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStateAndCity -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testPostalCode" duration-ms="18" started-at="2016-09-06T10:46:54Z" data-provider="PostalCodeData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testPostalCode" duration-ms="14" started-at="2016-09-06T10:46:54Z" data-provider="PostalCodeData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testPostalCode" duration-ms="14" started-at="2016-09-06T10:46:54Z" data-provider="PostalCodeData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testPostalCode(java.lang.String, java.lang.String)[pri:5, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testPostalCode" duration-ms="11" started-at="2016-09-06T10:46:54Z" data-provider="PostalCodeData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123@56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostalCode -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testMobileNumber" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="MobileNumberData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234567892]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testMobileNumber" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="MobileNumberData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ebasta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testMobileNumber" duration-ms="11" started-at="2016-09-06T10:46:54Z" data-provider="MobileNumberData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5694]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testMobileNumber(java.lang.String, java.lang.String)[pri:6, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testMobileNumber" duration-ms="13" started-at="2016-09-06T10:46:54Z" data-provider="MobileNumberData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-256478965]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileNumber -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEtailerName" duration-ms="11" started-at="2016-09-06T10:46:54Z" data-provider="EtailerData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEtailerName" duration-ms="10" started-at="2016-09-06T10:46:54Z" data-provider="EtailerData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vv/12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEtailerName" duration-ms="9" started-at="2016-09-06T10:46:54Z" data-provider="EtailerData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ james]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEtailerName" duration-ms="14" started-at="2016-09-06T10:46:54Z" data-provider="EtailerData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jake   ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testEtailerName(java.lang.String, java.lang.String)[pri:7, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testEtailerName" duration-ms="8" started-at="2016-09-06T10:46:54Z" data-provider="EtailerData" finished-at="2016-09-06T10:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEtailerName -->
+        <test-method status="PASS" signature="testNatureOfBusinessDropdown()[pri:8, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="testNatureOfBusinessDropdown" duration-ms="10" started-at="2016-09-06T10:46:54Z" finished-at="2016-09-06T10:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNatureOfBusinessDropdown -->
+        <test-method status="PASS" signature="createEtailer()[pri:9, instance:eBastaRegistration.Register_eTailerTest@6d3a388c]" name="createEtailer" duration-ms="14" started-at="2016-09-06T10:46:54Z" finished-at="2016-09-06T10:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEtailer -->
+      </class> <!-- eBastaRegistration.Register_eTailerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
